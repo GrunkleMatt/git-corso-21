@@ -1,2 +1,2 @@
 # git-corso-21
-My projects from the course ITS Steve Jobs Academy
+My projects from ITS Steve Jobs Academy course
